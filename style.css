@@ -1,0 +1,62 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(153, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+
+a{
+  color: rgb(255, 255, 255);
+}
+
+.SvarteJack {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  border: 10px;
+  border-radius: 10px;
+  background-color: rgb(23, 90, 1);
+  margin-top: 50px;
+  margin-bottom: 60;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.Start {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(23, 90, 1);
+  border: 50px;
+  border-radius: 10px;
+  margin: 150px;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 500px;
+  font-size: 25px;
+}
+
+.Restart {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(23, 90, 1);
+  border: 50px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 500px;
+  font-size: 25px;
+}
+
+.game-body {
+  display: flex;
+  justify-content: center;
+}
+/*
+display: flex;
+margin-right: 100px;
+border: 10px;
+border-radius: 5px;
+background-color: aqua;
+width: 230px;
+justify-content: center;
+*/
